@@ -1,15 +1,15 @@
 html {
- box-sizing: border-box;
- -ms-overflow-style: scrollbar;
+  box-sizing: border-box;
+  -ms-overflow-style: scrollbar;
 }
 
 *,::after,::before {
- box-sizing: inherit;
+  box-sizing: inherit;
 }
 
 /* *{
-  margin: 0em;
-  padding: 0em;
+margin: 0em;
+padding: 0em;
 } */
 /* #body-main{background-color: #0FAE5F;width: 1250px;height: 600px;margin-left: auto; margin-right: auto;}
 .level-one{background-color: #69E8A8}
