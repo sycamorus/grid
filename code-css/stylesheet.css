@@ -18,6 +18,10 @@ padding: 0em;
 .level-four{background-color: #69E8A8}
 .level-five{background-color: #DEFFEF} */
 
+.five-h p{background-color: inherit;color: blue;}
+.five-h-seven-h{background-color: yellow;width: 600px;}
+.five-h-seven-h{background-color: green;width: 600px;}
+
 .five-h{
   width: 576px;
   height: 576px;
